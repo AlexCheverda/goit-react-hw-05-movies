@@ -7,10 +7,12 @@ export const Container = styled.div`
   margin: 0 auto;
   min-height: 100vh;
   background: linear-gradient(
-    90deg,
-    rgba(213, 240, 190, 1) 0%,
-    rgba(255, 243, 243, 1) 47%,
-    rgba(241, 191, 122, 1) 100%
+    65deg,
+    #bebf00 0%,
+    #ebe212 29%,
+    #337eef 56%,
+    #05a3ff 74%,
+    #090093 100%
   );
 `;
 export const Header = styled.header`
@@ -34,10 +36,10 @@ export const Link = styled(NavLink)`
   box-shadow: 1px 1px 5px 1px rgba(0, 0, 0, 0.78);
   &.active {
     color: white;
-    background-color: orangered;
+    background-color: #05a3ff;
   }
   &:hover {
-    background-color: orangered;
+    background-color: #05a3ff;
     opacity: 0.4;
     color: white;
   }

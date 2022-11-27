@@ -28,7 +28,7 @@ export const Button = styled.button`
   border: none;
   margin-bottom: 10px;
   &:hover {
-    background-color: orangered;
+    background-color: #05a3ff;
     color: white;
     opacity: 0.6;
   }
@@ -55,7 +55,7 @@ export const MovieDetail = styled.div`
 `;
 
 export const Rating = styled.span`
-  background-color: orangered;
+  background-color: #05a3ff;
   padding: 1px 4px;
   border-radius: 2px;
 `;

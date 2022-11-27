@@ -23,7 +23,7 @@ export const SearchButton = styled.button`
   transition: opacity 250ms cubic-bezier(0.4, 0, 0.2, 1);
   cursor: pointer;
   outline: none;
-  background-color: orangered;
+  background-color: #05a3ff;
   color: white;
   &:hover {
     opacity: 1;
