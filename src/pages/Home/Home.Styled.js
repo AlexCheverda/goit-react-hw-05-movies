@@ -8,7 +8,7 @@ export const HomeLink = styled(Link)`
   border-bottom: 1px solid grey;
   &:hover {
     padding: 4px;
-    border-radius: 4px;
+    border-radius: 5px;
     box-shadow: 1px 2px 10px 3px rgba(0, 0, 0, 0.78);
   }
 `;

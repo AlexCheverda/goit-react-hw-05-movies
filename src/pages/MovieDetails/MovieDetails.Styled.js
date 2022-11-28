@@ -24,7 +24,7 @@ export const LinkWrapper = styled.div`
 
 export const Button = styled.button`
   padding: 8px;
-  border-radius: 4px;
+  border-radius: 5px;
   border: none;
   margin-bottom: 10px;
   &:hover {
